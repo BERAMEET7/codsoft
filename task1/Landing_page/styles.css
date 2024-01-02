@@ -15,7 +15,7 @@
   /* Header styling */
   header {
     background-image: url("head-back.jpg");
-    
+    background-attachment: ;
     background-size: contain;
     color: #fff;
     padding: 40px 20px 10px 20px;
@@ -123,6 +123,7 @@
 }
 .about{
   display:contents;
+  
 }
 .about h2{
   background-color: #E9ECEF;
@@ -179,6 +180,7 @@
   color: white;
   background-image: url("section2_back.jpg");
   background-size: cover;
+  background-attachment: fixed;
 }
 .card-grid{
   overflow: auto;
@@ -315,7 +317,7 @@
   flex-direction:column ;
   background-image: url("section4_back.jpg");
   background-size: cover;
-  
+  background-attachment: fixed;
 }
 .wc-1{
   color: #E9ECEF;
@@ -409,4 +411,11 @@
 .footer-content a:hover{
   text-decoration: underline;
   color: #ccc;
+}
+.wc23{
+  background-color: #212529;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  padding: 10px 20px 15px 20px;
+  color: white;
 }
