@@ -88,12 +88,10 @@
     height: 40rem;
   }
 
-  
-  /* Testimonial styling */
   .testimonial {
     margin-bottom: 20px;
   }
-  
+
   /* Footer styling */
   footer {
     background-color: #333;
@@ -174,6 +172,9 @@
 .about{
   background-color: white;
 }
+
+
+
 /* why chooose section */
 .why-choose{
   background-color: #212529;
@@ -223,6 +224,9 @@
 .card-1 p:hover{
   color: #E9ECEF;
 }
+
+
+
 /* membership section */
 .membership-benefits .membership-cards {
   display: flex;
@@ -273,6 +277,9 @@
 #membership{
   height: 31rem;
 }
+
+
+
 /* testimonial section */
 .testimonial-section {
   display: flex;
@@ -323,6 +330,9 @@
   color: #E9ECEF;
   padding-top: 10px;
 }
+
+
+
 /* contact us section */
 .contact-section {
   padding: 40px;
