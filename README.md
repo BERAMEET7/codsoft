@@ -1,6 +1,12 @@
 # codsoft
 This repo contain my task which i created in during my internship program with codsoft
 ---
+
+- [task 1](https://berameet7.github.io/codsoft/task1/Landing_page/)
+- [task 2](https://berameet7.github.io/codsoft/task2/portfolio/)
+- [task 3](https://berameet7.github.io/codsoft/task3/calculator/)
+
+---
 ##  **task 1**🔗
 ![task 1 interface ](https://github.com/BERAMEET7/codsoft/blob/main/task1/Landing_page/interface.png)
 ---
