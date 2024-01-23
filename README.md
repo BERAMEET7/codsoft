@@ -1,6 +1,4 @@
 # codsoft
-This repo contain my task which i created in during my internship program with codsoft
----
 
 - [task 1](https://berameet7.github.io/codsoft/task1/Landing_page/)
 - [task 2](https://berameet7.github.io/codsoft/task2/portfolio/)
