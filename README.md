@@ -1,6 +1,6 @@
 # codsoft
 
-- [task 1](https://berameet7.github.io/codsoft/task1/Landing_page/)
+- [task 1](https://app.netlify.com/teams/berameet008/sites)
 - [task 2](https://berameet7.github.io/codsoft/task2/portfolio/)
 - [task 3](https://berameet7.github.io/codsoft/task3/calculator/)
 
