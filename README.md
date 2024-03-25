@@ -2,7 +2,7 @@
 
 - [task 1](https://landingpage-gym.netlify.app/)
 - [task 2](https://primary-portfolio.netlify.app/)
-- [task 3](https://berameet7.github.io/codsoft/task3/calculator/)
+- [task 3](https://primary-calculator.netlify.app/)
 
 ---
 ##  **task 1**🔗
